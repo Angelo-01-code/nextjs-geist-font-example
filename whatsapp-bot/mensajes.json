@@ -1,0 +1,33 @@
+{
+  "hola": [
+    "¡Hola! Bienvenido al servicio de verificación de comprobantes",
+    "¿En qué te puedo ayudar hoy?"
+  ],
+  "quiero recargar": [
+    "¡Claro! ¿Cuánto deseas recargar?",
+    "Por favor, envíame el comprobante de pago para verificarlo"
+  ],
+  "gracias": [
+    "¡De nada! Estoy aquí para ayudarte",
+    "Si necesitas algo más, no dudes en preguntarme"
+  ],
+  "comprobante_aceptado": [
+    "✅ ¡Tu comprobante ha sido verificado y aceptado!",
+    "Tu recarga será procesada en breve"
+  ],
+  "comprobante_rechazado": [
+    "❌ Lo siento, tu comprobante no pudo ser verificado",
+    "Motivo: {motivo}",
+    "Por favor, envía un nuevo comprobante válido"
+  ],
+  "error_ocr": [
+    "❌ Hubo un error al procesar tu comprobante",
+    "Por favor, asegúrate que la imagen sea clara y legible",
+    "Intenta enviar nuevamente el comprobante"
+  ],
+  "default": [
+    "Disculpa, no entendí tu mensaje",
+    "Puedes enviarme un comprobante de pago para verificarlo",
+    "O escribe 'hola' para más información"
+  ]
+}
